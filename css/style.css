@@ -6,6 +6,9 @@ html{
 
 .increase{
 font-size: 26px;
+     justify-content: center;
+    align-items: center;
+    
 }
 
 * {
